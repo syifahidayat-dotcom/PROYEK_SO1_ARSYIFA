@@ -1,0 +1,31 @@
+--- HASIL STATISTIK FILE SISTEM ---
+-----------------------------------
+Waktu : Tue Nov 11 01:16:45 AM WITA 2025
+
+-Jumlah Folder dan File-
+Jumlah Folder	: 5
+Jumlah File	: 8
+
+-Ukuran Direktori dan Subfolder-
+Total Direktori Saat Ini :  1.1M
+12K	archives/
+20K	documents/
+12K	images/
+12K	logs/
+324K	no1/
+96K	no2/
+292K	no3/
+308K	no4/
+
+-Berikut 5 File Terbesar-
+1.1M	.
+324K	./no1
+308K	./no4
+292K	./no3
+96K	./no3/hasil2_search.png
+
+-Total Baris dan Kata Dari File .txt-
+Total File .txt	: 2
+Total Baris	: 29
+Total Kata	: 83
+
