@@ -1,31 +1,31 @@
 --- HASIL STATISTIK FILE SISTEM ---
 -----------------------------------
-Waktu : Tue Nov 11 01:16:45 AM WITA 2025
+Waktu : Wed Nov 12 05:02:44 PM WITA 2025
 
 -Jumlah Folder dan File-
 Jumlah Folder	: 5
 Jumlah File	: 8
 
 -Ukuran Direktori dan Subfolder-
-Total Direktori Saat Ini :  1.1M
+Total Direktori Saat Ini :  2.4M
 12K	archives/
-20K	documents/
+16K	documents/
 12K	images/
 12K	logs/
 324K	no1/
 96K	no2/
-292K	no3/
-308K	no4/
+364K	no3/
+296K	no4/
 
 -Berikut 5 File Terbesar-
-1.1M	.
+2.4M	.
+1.3M	./.git
+1.2M	./.git/objects
+364K	./no3
 324K	./no1
-308K	./no4
-292K	./no3
-96K	./no3/hasil2_search.png
 
 -Total Baris dan Kata Dari File .txt-
 Total File .txt	: 2
-Total Baris	: 29
-Total Kata	: 83
+Total Baris	: 39
+Total Kata	: 87
 

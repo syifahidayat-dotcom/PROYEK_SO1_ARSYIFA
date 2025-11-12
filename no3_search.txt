@@ -1,2 +1,12 @@
-./documents/LAPRAK.txt:1:laporan sistem operasi final
-./documents/laporan3.txt:1:laporan sistem operasi pertama
+./images/kenanganSMA.jpg
+./images/ayambangyus.png
+./images/kucinggemes.jpg
+./documents/laporan2.txt
+./documents/laporan1.txt
+./logs/app.log
+./logs/sistem1.log
+./logs/sistem2.log
+./archives/arsip2.zip
+./archives/kucinggemes.jpg
+./archives/jadwal.zip
+./archives/arsip1.zip

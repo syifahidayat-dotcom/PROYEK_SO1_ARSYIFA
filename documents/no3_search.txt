@@ -1,2 +1,0 @@
-./no1/documents/LAPRAK.txt:1:laporan sistem operasi final
-./no1/documents/laporan3.txt:1:laporan sistem operasi pertama
